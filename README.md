@@ -1,2 +1,1 @@
-# stat-py
-Statistical Python
+# Statistical Python
