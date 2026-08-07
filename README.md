@@ -3,7 +3,16 @@
 A collection of statistics concepts and Python implementations from my learning journey.
 
 ---
+## Roadmap
 
+```mermaid
+graph LR
+    A[📏 Summary Statistics] --> B[🎲 Probability & Distributions]
+    B --> C[🧪 Sampling Methods]
+    C --> D[📈 Correlation & Regression]
+    D --> E[🔬 Hypothesis Testing]
+```
+---
 ## Table of Contents
 
 - [Summary Statistics](#summary-statistics)
